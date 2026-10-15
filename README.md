@@ -42,7 +42,7 @@ Summary of findings for independent investigation for coupon type 'Carry out & T
 
 - Acceptance rate for lower education levels is much greater than higher education levels.  There is a 28.4% difference in acceptance rate between Some Highschool and Graduate degree with Some High School having an acceptance rate of 93.8%
 
-- Combining features gender and marital status reveal large acceptance differences between Male_Divorced acceptance rate of 96% and Femal_Devorced rate of 65.1% a difference of 30.9%.  Also, between Femal_Widowed  with acceptance rate of 89.5% and Male_Widowed with acceptance rate of 71.4 a difference of 18.1.
+- Combining features gender and marital status reveal large acceptance differences between Male_Divorced acceptance rate of 96% and Femal_Devorced rate of 65.1% a difference of 30.9%.  Also, between Femal_Widowed  with acceptance rate of 89.5% and Male_Widowed with acceptance rate of 71.4% a difference of 18.1%.
 
 - Original hypothesis was that convenience and drivers with kids would be more likely to accept coupon type. However, this was not supported by data.
 
